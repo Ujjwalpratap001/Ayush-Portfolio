@@ -6,8 +6,8 @@ const CONFIG = {
   about: "Write 2 to 3 lines about yourself here. Who you are, what you build, and what you are learning right now.",
   photo: "", // optional: upload a photo and write its file name, e.g. "photo.jpg"
 
-  githubUser: "https://leetcode.com/u/Ayushpatel396/",
-  leetcodeUser: "client-leetcode-username",
+  githubUser: "ayushpatel9617",
+  leetcodeUser: "Ayushpatel396",
 
   // Shown if LeetCode live data is slow or down. Update now and then.
   leetcodeBackup: { total: 0, easy: 0, medium: 0, hard: 0 },
