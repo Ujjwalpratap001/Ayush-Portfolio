@@ -3,7 +3,7 @@
 const CONFIG = {
   name: "Ayush Patel",
   title: "Artificial Intelligence and Machine Learning",
-  intro: "Write one or two lines about what you build and what you love working on.",
+  intro: "I turn ideas into digital experiences through code, creativity, and continuous learning. From building web applications to exploring data science and AI, I enjoy creating solutions that solve real problems.",
   about: "### Curious Mind. Creative Builder. Future Engineer.
 
 I'm Ayush Patel , a Computer Science Engineering student at GLA University, specializing in Data Science. I'm passionate about software development, problem-solving, and exploring how technology can transform ideas into useful digital products.
