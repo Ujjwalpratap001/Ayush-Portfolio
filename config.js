@@ -67,8 +67,12 @@ const CONFIG = {
 
   // To add a certificate: upload the image into the "certificates" folder,
   // then copy one block below, paste it after the last one, and change the text.
-  certificates: [
-    { title: "Certificate name 1", issuer: "Issued by", year: "2026", file: "certificate1.png" },
-    { title: "Certificate name 2", issuer: "Issued by", year: "2026", file: "certificates/cert2.jpg" }
+certificates: [
+    { title: "AI TOOLS WORKSHOP", issuer: "be10x", year: "2026", file: "certificate1.png" },
+    { title: "Python Essentials 1", issuer: "Cisco Networking Academy / Python Institute", year: "2026", file: "certificate2.png" },
+    { title: "Python Essentials 2", issuer: "Cisco Networking Academy", year: "2026", file: "certificate3.png" },
+    { title: "Get Started with Databricks for Generative AI", issuer: "Databricks", year: "2026", file: "certificate4.png" },
+    { title: "Get Started with SQL Analytics and BI on Databricks", issuer: "Databricks", year: "2026", file: "certificate5.png" },
+   
   ]
 };
