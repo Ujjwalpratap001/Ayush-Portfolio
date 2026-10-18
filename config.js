@@ -1,10 +1,20 @@
 // ONLY edit the text between the quotes "..." in this file. Do not delete commas, brackets or braces.
 
 const CONFIG = {
-  name: "Your Client Name",
-  title: "Software Developer",
+  name: "Ayush Patel",
+  title: "Artificial Intelligence and Machine Learning",
   intro: "Write one or two lines about what you build and what you love working on.",
-  about: "Write 3 to 4 lines about yourself: who you are, what you study or work on, and what you want to do next.",
+  about: "### Curious Mind. Creative Builder. Future Engineer.
+
+I'm Ayush Patel , a Computer Science Engineering student at GLA University, specializing in Data Science. I'm passionate about software development, problem-solving, and exploring how technology can transform ideas into useful digital products.
+
+My journey revolves around learning by building — developing projects, strengthening my programming fundamentals, practicing data structures and algorithms, and experimenting with modern technologies.
+
+From creating web platforms like GLA ExamPrep to developing creative digital projects like Wallora, I enjoy taking ideas from concept to implementation and continuously improving them along the way.
+
+I'm currently focused on growing as a software developer, expanding my knowledge of data science and AI, and connecting with people who share a passion for technology and innovation.
+
+**My goal:** Build meaningful products, solve challenging problems, and turn curiosity into real-world impact.",
   availability: "Open to internships",   // leave "" to hide this label
   photo: "",                              // upload a photo and write its file name, e.g. "photo.jpg"
 
