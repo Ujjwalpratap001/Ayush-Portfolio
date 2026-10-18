@@ -49,19 +49,19 @@ const CONFIG = {
       name: "GLA ExamPrep",
       description: "A free subject-wise quiz and exam preparation platform for GLA University students.",
       tech: ["HTML", "CSS", "JavaScript", "Firebase"],
-      image: "",
-      live: "",
+      image: "examprep.png",
+      live: "https://gla-examprep.web.app/#authSection",
       code: "",
-      status: "In progress"
+      status: "Beta"
     },
     {
       name: "Wallora",
       description: "A wallpaper discovery and sharing platform with categories, image uploads and downloads, and Google sign-in.",
-      tech: [],
-      image: "",
-      live: "",
+      tech: ["HTML", "CSS", "JavaScript", "Firebase"],
+      image: "wallora.png",
+      live: "https://wallora-pratap.web.app/",
       code: "",
-      status: "Add status"
+      status: "Live"
     }
   ],
 
