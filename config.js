@@ -3,8 +3,8 @@
 const CONFIG = {
   name: "Ayush Patel",
   title: "Artificial Intelligence and Machine Learning",
-  intro: "I turn ideas into digital experiences through code, creativity, and continuous learning. From building web applications to exploring data science and AI, I enjoy creating solutions that solve real problems.",
-  about: "Curious Mind. Creative Builder. Future Engineer.\n\nI'm Ayush Patel, a Computer Science Engineering student at GLA University, specializing in Data Science. I'm passionate about software development, problem-solving, and exploring how technology can transform ideas into useful digital products.\n\nMy journey revolves around learning by building: developing projects, strengthening my programming fundamentals, practicing data structures and algorithms, and experimenting with modern technologies.\n\nFrom creating web platforms like GLA ExamPrep to developing creative digital projects like Wallora, I enjoy taking ideas from concept to implementation and continuously improving them along the way.\n\nI'm currently focused on growing as a software developer, expanding my knowledge of data science and AI, and connecting with people who share a passion for technology and innovation.\n\nMy goal: Build meaningful products, solve challenging problems, and turn curiosity into real-world impact.",
+  intro: "I turn ideas into digital experiences through code, creativity, and continuous learning.",
+  about: "Curious Mind. Creative Builder.\n\nI'm Ayush Patel, a CSE student at GLA University specializing in Data Science. I enjoy coding, building projects, solving problems, and exploring new technologies to create meaningful digital experiences.",
   availability: "Open to internships",   // leave "" to hide this label
   photo: "photo.png",                     // upload a photo and write its file name, e.g. "photo.jpg"
 
